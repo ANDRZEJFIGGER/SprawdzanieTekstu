@@ -1,4 +1,4 @@
-import ilosc_spacji, ilosc_znakow, top3_znaki, sprawdzenie_tekstu, samogloski_spolgloski
+import ilosc_spacji, ilosc_znakow, top3_znaki, sprawdzenie_tekstu, samo_spol
 
 
 print("Podaj zdanie do analizy: ")
