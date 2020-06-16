@@ -1,4 +1,4 @@
-import ilosc_spacji, ilosc_znakow, top3_znaki, sprawdzenie_tekstu
+import ilosc_spacji, ilosc_znakow, top3_znaki, sprawdzenie_tekstu, samogloski_spolgloski
 
 
 print("Podaj zdanie do analizy: ")
@@ -11,5 +11,6 @@ while 1:
 ilosc_znakow.znaki(tekst)
 ilosc_spacji.ilosc(tekst)
 top3_znaki.top3(tekst)
+samogloski_spolgloski.samo(tekst)
 
 
