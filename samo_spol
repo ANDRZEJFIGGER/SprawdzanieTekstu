@@ -1,0 +1,10 @@
+def samo(tekst)
+  spol = 0
+  samo = 0
+  for x in tekst:
+    if x in "aeiouy":
+      samo = samo+1
+    else:
+      spol = spol+1
+print (spol, end = '')
+print (samo)
