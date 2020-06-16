@@ -1,4 +1,4 @@
-def samo(tekst)
+def samogloski(tekst)
   spol = 0
   samo = 0
   for x in tekst:
